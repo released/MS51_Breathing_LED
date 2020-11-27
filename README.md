@@ -9,7 +9,7 @@ update @ 2020/11/27
 
 3. use P11 , P13 , P14 as GPIO , to detect each timer loop
 
-{
+
 
 void loop_1000ms(void)
 {	
@@ -23,10 +23,8 @@ void loop_1000ms(void)
 	}
 }
 
-}
 
 
-{
 void loop_5000ms(void)
 {	
 	if (is_flag_set(flag_5000ms))
@@ -39,7 +37,6 @@ void loop_5000ms(void)
 	}
 }
 
-}
 
 below is screen capture
 
