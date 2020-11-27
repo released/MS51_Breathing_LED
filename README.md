@@ -23,6 +23,10 @@ void loop_1000ms(void)
 	}
 }
 
+}
+
+
+{
 void loop_5000ms(void)
 {	
 	if (is_flag_set(flag_5000ms))
