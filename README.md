@@ -50,7 +50,7 @@ void loop_5000ms(void)
 
 
 
-below is screen capture
+below is screen capture , P13 toggle per 1000ms , P14 toggle per 5000ms
 
 ![image](https://github.com/released/MS51_Breathing_LED/blob/main/1000ms_5000ms.jpg)
 
